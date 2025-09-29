@@ -1,0 +1,16 @@
+body {
+  background-color: yellow;
+  font-family: Arial, sans-serif;
+}
+
+/* Make all paragraphs blue */
+p {
+  color: blue;
+  font-size: 18px;
+}
+
+/* Make the main heading red */
+h1 {
+  color: red;
+  text-align: center;
+}
